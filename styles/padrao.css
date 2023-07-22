@@ -1,0 +1,53 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+html{
+    padding: 10vw;
+    padding-top: 2vw;
+}
+body{
+    border: 2px black solid;
+    border-radius: 10px;
+}
+header{
+    background-color: whitesmoke;
+    border-bottom: 1px black solid;
+    border-radius: 10px 10px 0px 0px;
+    text-align: center;
+}
+header, main, footer {
+    padding-left: 25px;
+    padding-bottom: 5px;
+
+}
+main{
+    background-color: whitesmoke;
+}
+li.open {
+    list-style: circle;
+}
+li.closed {
+    list-style: disc;
+}
+a{
+    color: black;
+}
+footer{
+    background-color: whitesmoke;
+    border-top: 1px black solid;
+    border-radius: 0px 0px 10px 10px;
+}
+
+
+
+
+.espacamento30{
+    padding-left: 30px;
+}
+abbr{
+    text-decoration: none;
+    font-weight: bold;
+    cursor: pointer;
+}
